@@ -1,0 +1,5 @@
+Student name: Fred, Farid 
+Student number: 693428
+Student class: IT1D
+URL student GitHub website: https://Fredd93.github.io/ 
+URL student GitHub repository: https://github.com/Fredd93/Fredd93.github.io
